@@ -25,7 +25,7 @@ To build, run
 ```./autogen.sh && ./configure && make```.
 For more detailed and platform-specific instructions, see [the doc folder.](doc/)
 
-Development process
+Development process 
 ===================
 
 Developers work in their own trees, then submit pull requests to the
